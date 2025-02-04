@@ -35,7 +35,7 @@ Record a short video of your story to display here on your README. You can do th
 
 ## Story Description
 
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+My story is supposed to showcase my favorite Disney characters in categories of male, female, animal male, and animal female. My whole life I grew up watching Disney and going to Disneyland. I wanted to create something relating to Disney and show filters that I can apply to these images. Data that is represented in my 2D arrays are the character names commonly reffered by, how old their first movie/apperance of them since they came out. These directly relate to my animation showcase to show their names and how old they are to show the impact these movies still have to me today and their characters.
 ## Image Filter Analysis
 
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
